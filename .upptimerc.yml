@@ -103,7 +103,8 @@ status-website:
     duration30D: 30 天
     duration1Y: 1 年
     durationAll: 全部
-    locale: zh-CN
+    #locale: zh-CN
+    locale: en-US
 
 
 # Upptime 还支持通知、分配问题等功能
