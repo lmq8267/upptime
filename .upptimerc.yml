@@ -3,29 +3,28 @@ owner: lmq8267 # 您的 GitHub 用户名
 repo: uptime # 此存储库的名称
 
 sites:
-  - name: VNT-TCP-UDP
+  - name: VNT官方服务器-tcp-udp【vnt.wherewego.top:29872】
     check: tcp-ping
     url: vnt.wherewego.top
     port: 29872
-  - name: VNT服务器 TCP-UDP
+  - name: VNT服务器-tcp-udp【s4.serv00.com:29872】
     check: tcp-ping
     url: s4.serv00.com
     port: 29872
-  - name: VNT服务器 TCP-UDP
+  - name: VNT服务器-tcp-udp【s1.ct8.p:29872】
     check: tcp-ping
     url: s1.ct8.pl
     port: 29872
-  - name: VNT服务器 WS
-    check: tcp-ping
+  - name: VNT服务器-ws【vnt.us.kg】
+    check: ws
     url: vnt.us.kg
-    port: 80
-  - name: EasyTier官方服务器 TCP-UDP
+  - name: EasyTier官方服务器-tcp-udp【public.easytier.top:11010】
     check: tcp-ping
     url: public.easytier.top
     port: 11010
-  - name: 1hc.us.kg
+  - name: 短链接-【http://1hc.us.kg】
     url: http://1hc.us.kg
-  - name: 短链接s4.serv00.com
+  - name: 短链接-【http://s4.serv00.com:8828】
     url: http://s4.serv00.com:8828
 
 status-website:
