@@ -53,7 +53,6 @@ status-website:
     down: "离线❌"
     responseTimeGraphAlt: "响应时间图"
     ms: "毫秒"
-    responseTime: "响应时间"
     responseTimeDay: "24 小时响应时间"
     responseTimeWeek: "7 天响应时间"
     responseTimeMonth: "30 天响应时间"
