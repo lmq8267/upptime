@@ -52,7 +52,7 @@ i18n:
     degraded: "不佳⚠️"
     down: "离线❌"
     responseTimeGraphAlt: "响应时间图"
-    ms: "毫秒"
+    ms: "ms"
     liveStatus: "实时状态"
     liveStatusHtmlComment: "<!--实时状态-->"
     allSystemsOperational: "所有服务运行正常 ✅"
