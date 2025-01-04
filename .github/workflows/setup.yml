@@ -70,3 +70,10 @@ jobs:
           force_orphan: "false"
           user_name: "Upptime Bot"
           user_email: "73812536+upptime-bot@users.noreply.github.com"
+
+      - name: delete-workflow
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          retain_days: 0
+          keep_minimum_runs: 0
