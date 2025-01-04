@@ -58,7 +58,7 @@ i18n:
     allSystemsOperational: "所有服务运行正常 ✅"
     degradedPerformance: "服务状态不佳 ⚠️"
     completeOutage: "所有服务全部离线 ❌"
-    partialOutage: "部分服务故障⚠️"
+    partialOutage: "部分服务故障 ⚠️"
 
     activeIncidents: 当前事件
     incidentReport: "事件 #$NUMBER 报告 →"
@@ -76,10 +76,10 @@ i18n:
     pastIncidentsResolved: 在 $MINUTES 分钟内解决，包含 $POSTS 条帖子
     overallUptime: "总体正常运行时间：$UPTIME"
     overallUptimeTitle: 总体正常运行时间
-    averageResponseTime: "平均响应时间：$TIME 毫秒"
+    averageResponseTime: "平均响应时间：$TIME ms"
     averageResponseTimeTitle: 平均响应时间
     sevelDayResponseTime: 7 天响应时间
-    responseTimeMs: 响应时间（毫秒）
+    responseTimeMs: 响应时间（ms）
     loading: 加载中
     navGitHub: GitHub
     footer: 本页面是 [开源项目]($REPO)，由 [Upptime](https://upptime.js.org) 提供支持
