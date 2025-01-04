@@ -80,10 +80,6 @@ status-website:
     averageResponseTimeTitle: 平均响应时间
     sevelDayResponseTime: 7 天响应时间
     responseTimeMs: 响应时间（毫秒）
-    up: 正常
-    down: 离线
-    degraded: 状态不佳
-    ms: 毫秒
     loading: 加载中
     navGitHub: GitHub
     footer: 本页面是 [开源项目]($REPO)，由 [Upptime](https://upptime.js.org) 提供支持
