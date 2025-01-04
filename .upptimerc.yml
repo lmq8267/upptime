@@ -61,7 +61,6 @@ status-website:
     partialOutage: "部分服务故障⚠️"
 
     activeIncidents: 当前事件
-    allSystemsOperational: 所有系统运行正常
     incidentReport: "事件 #$NUMBER 报告 →"
     activeIncidentSummary: 于 $DATE 开始，包含 $POSTS 条帖子
     incidentTitle: 事件 $NUMBER 详情
