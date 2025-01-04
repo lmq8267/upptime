@@ -18,6 +18,7 @@ sites:
   - name: VNT服务器-ws【vnt.us.kg】
     check: ws
     url: vnt.us.kg
+    port: 80
   - name: EasyTier官方服务器-tcp-udp【public.easytier.top:11010】
     check: tcp-ping
     url: public.easytier.top
