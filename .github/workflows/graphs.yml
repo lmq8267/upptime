@@ -37,3 +37,10 @@ jobs:
           command: "graphs"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
+
+  keepalive-workflow:
+    name: keepalive
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/keepalive-workflow@v2
