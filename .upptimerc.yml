@@ -55,10 +55,10 @@ i18n:
     ms: "ms"
     liveStatus: "实时状态"
     liveStatusHtmlComment: "<!--实时状态-->"
-    allSystemsOperational: "所有服务运行正常 ✅"
-    degradedPerformance: "服务状态不佳 ⚠️"
-    completeOutage: "所有服务全部离线 ❌"
-    partialOutage: "部分服务故障 ⚠️"
+    allSystemsOperational: "所有服务运行正常   ✅"
+    degradedPerformance: "服务状态不佳   ⚠️"
+    completeOutage: "所有服务全部离线   ❌"
+    partialOutage: "部分服务故障   ⚠️"
 
     activeIncidents: 当前事件
     incidentReport: "事件 #$NUMBER 报告 →"
